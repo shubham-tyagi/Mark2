@@ -37,15 +37,15 @@ var questionAnswers = [
 var highestScore = [
 	{
 		name: "Sunita Tyagi",
-		score: 10,
+		score: 5,
 	},
 	{
 		name: "Priya Tyagi",
-		score: 9,
+		score: 4,
 	},
 	{
 		name: "Sudhir Tyagi",
-		score: 8,
+		score: 4,
 	},
 ];
 
